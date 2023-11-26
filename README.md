@@ -31,4 +31,5 @@ KEY_2="..."
 `DB_` keys should point to a designated PostgresSQL Database
 
 `API_KEY_1` in *TEMPE_UI* equal to sha256 hash of `KEY_1` in *TEMPE_CTRL*
+
 `KEY_2` in *TEMPE_CTRL* equal to sha256 hash of `API_KEY_2` in *TEMPE_UI*
